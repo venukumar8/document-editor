@@ -25,4 +25,5 @@ DISCRIPTION: THIS WEBPAGE IS USED TO WRITE AND EDIT A DOCUMENT.WE CAN SAVE THE F
              STEP 7: PRESS ENNTER
                        IT WILL DISPLAY FRONTEND IS RUNNING SUCCESSFULLY AND IT WILL REDIRECT YOU OR OPEN THE WEB PAGE OF DOCUMENT-EDITOR.
                        NO NEED TO OPEN MANUALY THE WEB PAGE.
+OUTPUT: <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d1b74744-7ebd-41a7-b0a9-930bf1c2f007" />                       
                        
